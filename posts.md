@@ -1,1 +1,7 @@
-hello word
+---
+layout: page
+title: Posts:
+permalink: /posts/
+---
+
+### POSTS:
